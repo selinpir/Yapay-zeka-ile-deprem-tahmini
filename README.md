@@ -17,3 +17,4 @@ TEŞEKKÜRLER;
 Koç Holding işbirliğinde ve Aygaz W-Energy For Equality kapsamında organize edilen Yapay Zeka Okuryazarlığı 
 Bootcampinde bizimle değerli bilgilerinizi paylaştığınız için. 
 
+![28Earthquakes-illo-articleLarge-v2](https://user-images.githubusercontent.com/113732977/222957756-8f9f8068-c7cd-474f-87d5-1c9ad446fca1.gif)
